@@ -14,3 +14,6 @@ Queen’s Order 프로그램은 사용자 친화적인 인터페이스(GUI)와 �
 결제 과정을 원활하게 지원합니다.
 
 이제 Queen’s Order 와 함께 Burger Queen 의 햄버거를 즐기고 편안한 주문 및 결제 경험을 경험해보세요!
+
+
+![1](https://github.com/shinheem/QueensOrder-Project/assets/132419872/c320c206-29bd-42a7-8ec9-132cd2e40ebd)
